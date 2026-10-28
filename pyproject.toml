@@ -16,4 +16,5 @@ dependencies = [
     "torchvision",
     "xgboost",
     "dagshub",
+    "bentoml",
 ]
